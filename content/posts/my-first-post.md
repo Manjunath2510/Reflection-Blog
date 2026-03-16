@@ -4,5 +4,7 @@ draft = false
 title = Introduction
 
 +++
+
+
 I am Manjunath Malipatil , I studied seven years of school in Navodaya Vidyalaya Raichur. Now I am Student of Azim Premji university Bangalore doing Information Science course. This is my first blog post in Hugo. These blogs about my course Becoming a Reflective Information Scientist unitwise.I will write one blog for one unit.
 
