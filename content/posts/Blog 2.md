@@ -1,0 +1,2 @@
+In the starting of the Sem I am very curious study the my major course. In starting class of Becoming Reflective Informatin Scientist is about the **What is the information?** Nomally we known the meaning of the information is collection of _DATA_.Mainly did't known perspective of the graphs used based on the siquation .These topics are very new to me be.Many topics new for me.**The DIKW Model** How it was explaned the What is information?
+*  Data: is a collection of Raw and  unprocced and figures without context.
