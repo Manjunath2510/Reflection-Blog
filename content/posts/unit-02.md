@@ -16,7 +16,7 @@ We played with the images blurring the image, Horizontally ,Vertically (Edge -sh
 
 
 
-Drawing the Graphs are very tricky. Optimization this is process of finding the possible solution among available alternatives. In here also many peoples go with the greedy approach(Big number or Larger number).We solved many problems in class by greedy approach and Dynamic programming, Train graphs, Knapsack problem. Modelling it is process of creating to represent of a system object or behavior. Abstraction is hiding unnecessary details and focusing only on what important for the current problems.
+Drawing the Graphs are very tricky. Optimization this is process of finding the possible solution among available alternatives. In here also many peoples go with the greedy approach(Big number or Larger number).We solved many problems in class by greedy approach and Dynamic programming, Train graphs, Knapsack problem. Modelling it is process of creating to represent of a system object or behavior. Abstraction is hiding unnecessary details and focusing only on what important for the current problems..
 
 &#x20;
 
