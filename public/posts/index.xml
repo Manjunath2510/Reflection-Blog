@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:1313/Manjunath2510/Reflection-Blog/posts/</link>
+    <link>https://github.com/Manjunath2510/Reflection-Blog/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Mar 2026 21:38:15 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/Manjunath2510/Reflection-Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Apr 2026 01:17:22 +0530</lastBuildDate>
+    <atom:link href="https://github.com/Manjunath2510/Reflection-Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unit 03</title>
+      <link>https://github.com/Manjunath2510/Reflection-Blog/posts/unit03/</link>
+      <pubDate>Fri, 03 Apr 2026 01:17:22 +0530</pubDate>
+      <guid>https://github.com/Manjunath2510/Reflection-Blog/posts/unit03/</guid>
+      <description>&lt;h5 id=&#34;reflecting-on-failure&#34;&gt;&lt;strong&gt;Reflecting on Failure&lt;/strong&gt;&lt;/h5&gt;&#xA;&lt;p&gt;I think this unit is more practical. Before this unit I don&amp;rsquo;t known that much about failures?. This unit very new to me also very different unit compared  other units. This chapter answered many question of me. Like How people come to out from failure to success?, How much time failures take?, How to face the failures? and How small things can make big problems?. In class my case study was about research on the &lt;strong&gt;Ariane 5 Failure&lt;/strong&gt;. In this very small mistake of scientist destroyed the million peoples hope about space. This was carrying satellites to the space, This was planed after success of the Ariane 4. This is biggest software bug in world. Using IRS of the Ariane 4 in the Ariane 5 flight case the failure of the Ariane 5.Years after learning from the mistake they made it success. You heard anyone in the world who succussed in life without failures?. Before starting anything new first make sure about the information is correct. The failure takes place in a new territory. The failure is made towards a desired and meaningful goal. Being curious and trying to understand why something failed leads to new discoveries and innovations. Hence, failure should not cause shame but curiosity. Being curious and trying to understand why something failed leads to new discoveries and innovations. Hence, failure should not cause shame but curiosity. Failure is just a step towards success. This means failing in a smart and meaningful way called Intelligence failure. Many scientist experienced failures but they worked on the failures make it possible to success. Also i studied many case studies in the class. I faced problem in understanding the failures in the case studies presentation but it was more effective to me.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Unit 02</title>
-      <link>http://localhost:1313/Manjunath2510/Reflection-Blog/posts/unit-02/</link>
+      <link>https://github.com/Manjunath2510/Reflection-Blog/posts/unit-02/</link>
       <pubDate>Tue, 17 Mar 2026 21:38:15 +0530</pubDate>
-      <guid>http://localhost:1313/Manjunath2510/Reflection-Blog/posts/unit-02/</guid>
+      <guid>https://github.com/Manjunath2510/Reflection-Blog/posts/unit-02/</guid>
       <description>&lt;h4 id=&#34;x20the-nature-of-information-problems&#34;&gt; The nature of information problems&lt;/h4&gt;&#xA;&lt;p&gt;In this unit almost everything new other then the conversion of Binary to Decimal, Decimal to Binary and Hexadecimal. First thing we studied in the class about our Eyes ,parts of Eyes, In our eyes image is inverted and real but we sit it normal. Images storage mainly depends on the pixels. Pixels depends on intensity level 0 to 255(0 = Black ,255 =White and between them Grey colour).If the images are coloured  then pixels have 3 times of the normal memory.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unit 01</title>
-      <link>http://localhost:1313/Manjunath2510/Reflection-Blog/posts/unit-01/</link>
+      <link>https://github.com/Manjunath2510/Reflection-Blog/posts/unit-01/</link>
       <pubDate>Tue, 17 Mar 2026 15:57:48 +0530</pubDate>
-      <guid>http://localhost:1313/Manjunath2510/Reflection-Blog/posts/unit-01/</guid>
+      <guid>https://github.com/Manjunath2510/Reflection-Blog/posts/unit-01/</guid>
       <description>&lt;h4 id=&#34;what-is-the-information&#34;&gt;What is the Information?&lt;/h4&gt;&#xA;&lt;p&gt;In the starting of the Sem I am very curious study the my major course. In starting class of Becoming Reflective Information Scientist is about the What is the information? Normally we known the meaning of the information is collection of _DATA. Mainly didn&amp;rsquo;t known perspective of the graphs used based on the situation .These topics are very new to me be. Many topics new for me. The DIKW Model How it was explained the What is information? It showed hierarchy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introduction</title>
-      <link>http://localhost:1313/Manjunath2510/Reflection-Blog/posts/my-first-post/</link>
+      <link>https://github.com/Manjunath2510/Reflection-Blog/posts/my-first-post/</link>
       <pubDate>Wed, 18 Feb 2026 14:20:08 +0530</pubDate>
-      <guid>http://localhost:1313/Manjunath2510/Reflection-Blog/posts/my-first-post/</guid>
+      <guid>https://github.com/Manjunath2510/Reflection-Blog/posts/my-first-post/</guid>
       <description>&lt;p&gt;I am Manjunath Malipatil , I studied seven years of school in Navodaya Vidyalaya Raichur. Now I am Student of Azim Premji university Bangalore doing Information Science course. This is my first blog post in Hugo. These blogs about my course Becoming a Reflective Information Scientist unitwise.I will write one blog for one unit.&lt;/p&gt;</description>
     </item>
   </channel>
