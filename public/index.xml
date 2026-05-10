@@ -6,8 +6,15 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Apr 2026 01:17:22 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 10:55:50 +0530</lastBuildDate>
     <atom:link href="https://github.com/Manjunath2510/Reflection-Blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unit 04</title>
+      <link>https://github.com/Manjunath2510/Reflection-Blog/posts/unit04/</link>
+      <pubDate>Sun, 10 May 2026 10:55:50 +0530</pubDate>
+      <guid>https://github.com/Manjunath2510/Reflection-Blog/posts/unit04/</guid>
+      <description>&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;In unit 04 i worked on two projects Creating chatbot and building dashboard using Metabase. These are more practical experience in the digital tools. In starting learning Metabase was challenging because i had learned on small and simple graphs in mathematics but here using big data to create graphs that time it was tough to me. This time, i had to work with applying filters and choosing correct graphs for particular column and row. I learned by exploring the tool, watching tutorials. Slowly i understood how data can organized and presented clearly. This was first time am using the Metabase.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Unit 03</title>
       <link>https://github.com/Manjunath2510/Reflection-Blog/posts/unit03/</link>
